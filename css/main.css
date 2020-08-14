@@ -215,6 +215,7 @@ color: rgba(255, 255, 255, 0.46) !important
 
 .topggwid {
     text-align: center !important;
+    padding-left: 200px;
 }
 
 .stattitle {
@@ -227,5 +228,21 @@ color: rgba(255, 255, 255, 0.46) !important
 
 .notfound {
     font-size: 200px !important;
+    color: #fff;
+}
+
+.gblwid {
+    padding-left: 100px;
+    padding-right: 90px;
+}
+
+.voidwid {
+    width: 400px;
+    height: auto;
+    position: absolute;
+}
+
+.comingsoon {
+    font-size: 200px;
     color: #fff;
 }
